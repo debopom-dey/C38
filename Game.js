@@ -43,7 +43,7 @@ class Game {
     Player.getPlayerInfo();
 
     if(allPlayers !== undefined){
-
+        background(46,139,87)
       var index = 0;
       var x ;
       var y=0;
